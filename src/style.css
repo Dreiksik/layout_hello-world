@@ -1,1 +1,17 @@
 /* styles go here */
+body{
+font-family: 'Roboto', sans-serif;
+margin: reset;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav{
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
